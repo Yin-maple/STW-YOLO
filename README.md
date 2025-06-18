@@ -14,6 +14,7 @@ python yolo_train.py [model_cgf] [data] [save_name]
 ```bash
 python yolo_test.py [model_weights] [data]
 ```
+
 ### IoU simulation experiment
 ```bash
 # saving gt_pred_data.json file
@@ -23,5 +24,6 @@ python get_gt_pre_box.py
 python IoU_simulation.py
 ```
 
-### Datasets and Pre-trained models
-We constructed a Dense Small Worker Detection (DSWD) dataset on large construction sites to address the shortcomings of existing data, which contains 1705 low-resolution images and 48553 small worker instances from 25 construction sites acquired at different times and different illuminations. DSWD has 73.63\% of workers with areas less than $32\times32$ pixels, contains an average of 28 small workers per image, and has significant overlap and occlusion, which represents the challenge of dense small worker detection at large sites.
+### Datasets
+
+### Evaluation
