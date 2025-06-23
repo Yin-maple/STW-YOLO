@@ -23,8 +23,10 @@ python IoU_simulation.py
 ```
 
 ### Datasets
+We constructed a Small Target Worker Dataset ([STWD](https://drive.google.com/drive/folders/1Rsj0qZ6UUiOb4GhdlNwluYVksrheRjAs)) on large construction sites, which contains 1705 low-resolution images and 48553 small worker instances from 25 construction sites acquired at different times and different illuminations. We also provide additional labels for workers included in SODA and MOCA.
+
 TinyPerson Download from [HR-FPN](https://github.com/laochen330/HR-FPN).
-We constructed a Small Target Worker Dataset ([STWD](https://drive.google.com/drive/folders/1Rsj0qZ6UUiOb4GhdlNwluYVksrheRjAs)) on large construction sites, which contains 1705 low-resolution images and 48553 small worker instances from 25 construction sites acquired at different times and different illuminations.
+
 
 ### Evaluation
 Because we are using the [HR-FPN](https://github.com/laochen330/HR-FPN) evaluation metrics, you will need to replace the cocoeval.py file in the “coco” folder with the cocoeval.py file in the “pycocotools” folder in your environment to ensure that the program runs correctly.
