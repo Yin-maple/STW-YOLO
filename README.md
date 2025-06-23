@@ -25,3 +25,4 @@ python IoU_simulation.py
 ### Datasets
 
 ### Evaluation
+Because we are using the [HR-FPN](https://github.com/laochen330/HR-FPN) evaluation metrics, you will need to replace the cocoeval.py file in the “coco” folder with the cocoeval.py file in the “pycocotools” folder in your environment to ensure that the program runs correctly.
