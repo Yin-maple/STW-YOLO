@@ -23,7 +23,7 @@ python IoU_simulation.py
 ```
 
 ### Datasets
-We constructed a Small Target Worker Dataset ([STWD](https://drive.google.com/drive/folders/1Rsj0qZ6UUiOb4GhdlNwluYVksrheRjA)) on large construction sites, which contains 1705 low-resolution images and 48553 small worker instances from 25 construction sites acquired at different times and different illuminations. We also provide additional labels for workers included in SODA and MOCA.
+We constructed a Small Target Worker Dataset ([STWD](https://drive.google.com/drive/folders/1Rsj0qZ6UUiOb4GhdlNwluYVksrheRjAs)) on large construction sites, which contains 1705 low-resolution images and 48553 small worker instances from 25 construction sites acquired at different times and different illuminations. We also provide additional labels for workers included in SODA and MOCA.
 
 TinyPerson dataset download from [HR-FPN](https://github.com/laochen330/HR-FPN).
 
