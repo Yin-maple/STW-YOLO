@@ -28,6 +28,9 @@ We constructed a Small Target Worker Dataset ([STWD](https://drive.google.com/dr
 
 TinyPerson dataset download from [HR-FPN](https://github.com/laochen330/HR-FPN).
 
+A task-driven case can be downloaded [here](https://drive.google.com/drive/folders/1Rsj0qZ6UUiOb4GhdlNwluYVksrheRjAs).
+<img src="tools/Worker_3D.jpg" width="500" alt="Anchor Plot">
+
 
 ### Evaluation
 Because we are using the [HR-FPN](https://github.com/laochen330/HR-FPN) evaluation metrics, you will need to replace the cocoeval.py file in the “coco” folder with the cocoeval.py file in the “pycocotools” folder in your environment to ensure that the program runs correctly.
