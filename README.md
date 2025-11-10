@@ -29,6 +29,7 @@ We constructed a Small Target Worker Dataset ([STWD](https://drive.google.com/dr
 TinyPerson dataset download from [HR-FPN](https://github.com/laochen330/HR-FPN).
 
 A task-driven case can be downloaded [here](https://drive.google.com/drive/folders/1Rsj0qZ6UUiOb4GhdlNwluYVksrheRjAs).
+
 <img src="tools/Worker_3D.jpg" width="500" alt="Anchor Plot">
 
 
