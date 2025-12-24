@@ -38,4 +38,5 @@ Because we are using the [HR-FPN](https://github.com/laochen330/HR-FPN) evaluati
 
 ### Paper
 Yin Yufeng, Liu Xiaoyan. Small target worker detection based on improved YOLOv12 for large construction scenes[J]. Automation in Construction, 2026, 182: 106722.
+
 Doi: 10.1016/j.autcon.2025.106722
