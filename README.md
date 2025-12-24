@@ -35,3 +35,7 @@ A task-driven case can be downloaded [here](https://drive.google.com/drive/folde
 
 ### Evaluation
 Because we are using the [HR-FPN](https://github.com/laochen330/HR-FPN) evaluation metrics, you will need to replace the cocoeval.py file in the “coco” folder with the cocoeval.py file in the “pycocotools” folder in your environment to ensure that the program runs correctly.
+
+### Paper
+Yin Yufeng, Liu Xiaoyan. Small target worker detection based on improved YOLOv12 for large construction scenes[J]. Automation in Construction, 2026, 182: 106722.
+Doi: 10.1016/j.autcon.2025.106722
